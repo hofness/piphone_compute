@@ -1,0 +1,15 @@
+# put this in the .desktop file
+
+~/.local/share
+
+
+[Desktop Entry]
+Version=1.0
+Name=piphone_compute
+Comment=cell phone app
+Exec=/usr/pi/piphone_compute/pyphone_compute.py
+Icon=/usr/pi/piphone_compute/icons/...
+Path=~/.local/share/pi/piphone_compute/
+Terminal=false
+Type=Application
+Categories=Utility;Application;

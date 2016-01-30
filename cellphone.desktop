@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Cell Phone
+Comment=cell phone app for raspi
+Icon=/usr/share/pixmaps/cell_icon.xpm
+Exec=sudo python ~/piphone_compute/__init__.py
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
